@@ -65,6 +65,6 @@ app.use('/users',userRoutes);
 app.use('/apis',apisRoutes);
 
 //app.use(express.static(path.join(__dirname, "..", "build")));
-app.use(express.static('public/'));
+app.use(express.static('public/build'));
 
 app.listen(config.server.port, logger.info(`Server started on port ${config.server.port}`));
