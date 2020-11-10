@@ -1,0 +1,40 @@
+{
+  "name": "authserver",
+  "version": "1.0.0",
+  "description": "Auth server using passport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint:ejs": "find views -type f -iname '*.ejs' -exec bash -c \"./node_modules/.bin/ejslint '{}'\" \\;"
+  },
+  "author": "Nicolas Zuain",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "connect-redis": "^5.0.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "googleapis": "^60.0.1",
+    "joi": "^17.2.1",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.4.11",
+    "passport": "^0.4.1",
+    "passport-facebook": "^3.0.0",
+    "passport-local": "^1.0.0",
+    "redis": "^3.0.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "ejs-lint": "^1.1.0",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,273 @@
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 16.369 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.b5d9c72d.chunk.css 304 2.873 ms - -","level":"info"}
+{"message":"GET /static/js/main.ec745156.chunk.js 404 2.986 ms - 171","level":"info"}
+{"message":"GET /static/js/2.1f60d55c.chunk.js 304 2.942 ms - -","level":"info"}
+{"message":"GET /static/js/main.ec745156.chunk.js 404 0.690 ms - 171","level":"info"}
+{"message":"GET /manifest.json 304 1.355 ms - -","level":"info"}
+{"message":"GET / 304 0.932 ms - -","level":"info"}
+{"message":"GET /static/css/2.b5d9c72d.chunk.css 304 1.554 ms - -","level":"info"}
+{"message":"GET /static/js/2.1f60d55c.chunk.js 304 1.212 ms - -","level":"info"}
+{"message":"GET /static/js/main.ec745156.chunk.js 404 1.485 ms - 171","level":"info"}
+{"message":"GET /static/js/main.ec745156.chunk.js 404 0.586 ms - 171","level":"info"}
+{"message":"GET /manifest.json 304 0.864 ms - -","level":"info"}
+{"message":"GET /favicon.ico 200 4.927 ms - 3870","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 4.748 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 404 3.068 ms - 170","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 404 2.756 ms - 168","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 404 2.647 ms - 171","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 404 0.694 ms - 168","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 404 0.531 ms - 171","level":"info"}
+{"message":"GET /manifest.json 304 1.386 ms - -","level":"info"}
+{"message":"GET /dashboard 404 1.044 ms - 148","level":"info"}
+{"message":"GET / 304 0.863 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 404 1.225 ms - 170","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 404 1.008 ms - 168","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 404 0.867 ms - 171","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 404 0.740 ms - 168","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 404 0.417 ms - 171","level":"info"}
+{"message":"GET /manifest.json 304 0.703 ms - -","level":"info"}
+{"message":"GET / 304 0.627 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 404 1.039 ms - 170","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 404 0.848 ms - 168","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 404 0.839 ms - 171","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 404 0.537 ms - 168","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 404 0.401 ms - 171","level":"info"}
+{"message":"GET /manifest.json 304 0.545 ms - -","level":"info"}
+{"message":"GET /manifest.json 304 0.852 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 404 0.957 ms - 170","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 4.719 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 2.687 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 200 2.173 ms - 288099","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 2.713 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.695 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js.map 200 0.757 ms - 839773","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.959 ms - 8728740","level":"info"}
+{"message":"GET /users/userinfo 200 1.033 ms - -","level":"info"}
+{"message":"GET /manifest.json 200 1.546 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 1.185 ms - 3870","level":"info"}
+{"message":"Error getting the inflation data. Error: Error: connect ECONNREFUSED 127.0.0.1:5001","level":"warn"}
+{"message":"GET /apis/getInflation/undefined 500 2030.402 ms - 642","level":"info"}
+{"message":"GET / 200 1.040 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 1.838 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js 200 1.254 ms - 288099","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.435 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 1.105 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.f8cf9b2a.chunk.js.map 200 0.741 ms - 839773","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.930 ms - 8728740","level":"info"}
+{"message":"GET /users/userinfo 200 0.620 ms - -","level":"info"}
+{"message":"GET /manifest.json 200 0.858 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 0.588 ms - 3870","level":"info"}
+{"message":"Error getting the inflation data. Error: Error: connect ECONNREFUSED 127.0.0.1:5001","level":"warn"}
+{"message":"GET /apis/getInflation/undefined 500 2015.664 ms - 642","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET /users/userinfo 200 4.132 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.702 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.570 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.430 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.921 ms - -","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 4.744 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 28.545 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js 200 2.190 ms - 288081","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 2.954 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.755 ms - 52007","level":"info"}
+{"message":"GET /users/userinfo 200 0.904 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 0.830 ms - 839703","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.991 ms - 8728740","level":"info"}
+{"message":"GET /manifest.json 200 1.124 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 0.503 ms - 3870","level":"info"}
+{"message":"GET /manifest.json 304 1.495 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 304 2.564 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 0.941 ms - 839703","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.694 ms - 52007","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.231 ms - 8728740","level":"info"}
+{"message":"GET / 200 21.337 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 2.112 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js 200 1.641 ms - 288081","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.836 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.807 ms - 52007","level":"info"}
+{"message":"GET /users/userinfo 200 0.509 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 0.746 ms - 839703","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.920 ms - 8728740","level":"info"}
+{"message":"GET /manifest.json 200 0.580 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 0.784 ms - 3870","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 304 4.641 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 304 1.808 ms - -","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 304 1.492 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js 304 1.309 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.836 ms - -","level":"info"}
+{"message":"GET /manifest.json 304 1.327 ms - -","level":"info"}
+{"message":"GET /favicon.ico 200 1.860 ms - 3870","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 304 1.723 ms - -","level":"info"}
+{"message":"GET /manifest.json 304 1.282 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 1.182 ms - 839703","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.590 ms - 52007","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.468 ms - 8728740","level":"info"}
+{"message":"GET / 200 1.260 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 2.124 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js 200 1.511 ms - 288081","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.688 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.664 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 1.638 ms - 839703","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.931 ms - 8728740","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 4.598 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 2.002 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js 200 1.655 ms - 288081","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.894 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.632 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 1.003 ms - 839703","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.429 ms - 8728740","level":"info"}
+{"message":"GET /users/userinfo 200 1.704 ms - -","level":"info"}
+{"message":"GET /manifest.json 200 1.335 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 2.307 ms - 3870","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 304 5.119 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 304 1.862 ms - -","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 304 1.532 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js 304 1.333 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.891 ms - -","level":"info"}
+{"message":"GET /manifest.json 304 1.671 ms - -","level":"info"}
+{"message":"GET /favicon.ico 200 2.512 ms - 3870","level":"info"}
+{"message":"GET /manifest.json 304 0.661 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 304 1.256 ms - -","level":"info"}
+{"message":"GET /static/js/main.eb5d1b44.chunk.js.map 200 1.499 ms - 839703","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.578 ms - 52007","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.956 ms - 8728740","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 4.799 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 1.951 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js 200 1.687 ms - 288078","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.828 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.675 ms - 52007","level":"info"}
+{"message":"GET /users/userinfo 200 3.992 ms - -","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js.map 200 0.799 ms - 839677","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.257 ms - 8728740","level":"info"}
+{"message":"GET /manifest.json 200 1.268 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 1.312 ms - 3870","level":"info"}
+{"message":"GET / 200 1.259 ms - 2467","level":"info"}
+{"message":"GET /apis/getInflation/undefined - - ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 1.921 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js 200 1.265 ms - 288078","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.420 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.722 ms - 52007","level":"info"}
+{"message":"Error getting the inflation data. Error: Error: connect ETIMEDOUT 52.20.101.119:5001","level":"warn"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js.map 200 1.675 ms - 839677","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.842 ms - 8728740","level":"info"}
+{"message":"GET /users/userinfo 200 2.293 ms - -","level":"info"}
+{"message":"GET /manifest.json 200 0.914 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 1.680 ms - 3870","level":"info"}
+{"message":"GET / 200 0.937 ms - 2467","level":"info"}
+{"message":"GET /apis/getInflation/undefined - - ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 2.026 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js 200 1.453 ms - 288078","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.592 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 0.742 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js.map 200 0.642 ms - 839677","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.773 ms - 8728740","level":"info"}
+{"message":"Error getting the inflation data. Error: Error: connect ETIMEDOUT 52.20.101.119:5001","level":"warn"}
+{"message":"GET /users/userinfo 200 1.880 ms - -","level":"info"}
+{"message":"GET /manifest.json 200 0.867 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 1.561 ms - 3870","level":"info"}
+{"message":"Error getting the inflation data. Error: Error: connect ETIMEDOUT 52.0.12.110:5001","level":"warn"}
+{"message":"GET /apis/getInflation/undefined 500 21160.563 ms - 660","level":"info"}
+{"message":"GET / 200 0.711 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 1.486 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js 200 0.840 ms - 288078","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 1.208 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 1.031 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js.map 200 0.620 ms - 839677","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 0.784 ms - 8728740","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET / 200 4.966 ms - 2467","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 200 4.152 ms - 43775","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js 200 2.611 ms - 288078","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js 200 3.318 ms - 3072943","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 1.116 ms - 52007","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js.map 200 0.733 ms - 839677","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 1.049 ms - 8728740","level":"info"}
+{"message":"GET /users/userinfo 200 12439.861 ms - -","level":"info"}
+{"message":"GET /manifest.json 200 2.940 ms - 357","level":"info"}
+{"message":"GET /favicon.ico 200 2.504 ms - 3870","level":"info"}
+{"message":"GET /apis/getInflation/undefined 200 31176.083 ms - 191534","level":"info"}
+{"message":"GET /manifest.json 304 1.893 ms - -","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css 304 3.880 ms - -","level":"info"}
+{"message":"GET /static/js/main.7fd8e9ba.chunk.js.map 200 1.254 ms - 839677","level":"info"}
+{"message":"GET /static/css/2.a11f2186.chunk.css.map 200 1.511 ms - 52007","level":"info"}
+{"message":"GET /static/js/2.9fd11e9e.chunk.js.map 200 2.325 ms - 8728740","level":"info"}
+{"message":"GET /users/userinfo 200 14046.863 ms - -","level":"info"}
+{"message":"GET /apis/getInflation/undefined 200 16976.651 ms - 191534","level":"info"}
+{"message":"GET /users/userinfo 200 1.107 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 1.127 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 1.970 ms - -","level":"info"}
+{"message":"GET /apis/getInflation/undefined 304 1851.339 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.552 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.508 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.738 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.527 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.536 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.565 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.871 ms - -","level":"info"}
+{"message":"GET /users/userinfo 200 0.494 ms - -","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
+{"message":"GET /users/loginFacebook?redirectTo=/%23/app/dashboard&redirectOnFail=/ 302 4.774 ms - 0","level":"info"}
+{"message":0,"level":"info"}
+{"message":"GET /users/loginFacebook/callback?code=AQB0xfzc5uXQJ8rp0gI-VXjzORL6xoDGydvE0FS2pOL5x0HwToJ-w1HzOAT5cXjXUBOt1td0_LcHpaiAK3C2RoQ0dJGfBQ1rRsZ88k24O7z90yO5G7CisKJFAI3G7SSWgH7axQz0KrJ7AeR1AvXkBRxJ4DJ0W22LJlNzA25ZAesmau4vx4VrAt-t-MorRe4Wt88K3vOuC4CJg1TQXJiCb_baJPHRkInS03n4--Ap3UenzG7jCEYLDfmozBg7WWshDMBotcn7_uJNgTN59bXMP1nm5HGI3gQVzBkMZBkdfGItzPBVNgesudTFUtEG1biw_uv4m98VHGSH_0JmRWfAr8O3L9YQArjJGp07pqlQNMB3zg 302 673.850 ms - 76","level":"info"}
+{"message":"GET /users/userinfo 200 2.444 ms - 2","level":"info"}
+{"message":"GET /users/loginFacebook?redirectTo=/%23/app/dashboard&redirectOnFail=/ 302 0.600 ms - 76","level":"info"}
+{"message":"GET /users/userinfo 304 1.235 ms - -","level":"info"}
+{"message":"GET /users/loginFacebook?redirectTo=/%23/app/dashboard&redirectOnFail=/ 302 0.777 ms - 76","level":"info"}
+{"message":"GET /users/userinfo 304 0.759 ms - -","level":"info"}
+{"message":"logger winston and morgan configured","level":"verbose"}
+{"message":"redis client created","level":"info"}
+{"message":"Server started on port 5000","level":"info"}
