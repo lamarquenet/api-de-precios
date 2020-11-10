@@ -28,3 +28,6 @@ Post:
 Apis: "functions like the nodemailer"
 Post
 '/apis/sendmail'
+
+The api server handles the navigation and authentication, as well as confirmation for new users. It talks with the server that contains all the prices and data to display the price change each month.
+The front end is developed using react.
