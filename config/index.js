@@ -35,6 +35,6 @@ module.exports =  {
     redis:{
         port: process.env.REDIS_PORT? process.env.REDIS_PORT : configValues.redis.port,
         host: process.env.REDIS_HOST? process.env.REDIS_HOST : configValues.redis.host,
-        connectionString: process.env.REDIS_CONNECTION_STRING? process.env.REDIS_CONNECTION_STRING : configValues.redis.connectionString
+        connectionString: process.env.REDIS_URL? process.env.REDIS_URL : configValues.redis.connectionString
     }
 }
