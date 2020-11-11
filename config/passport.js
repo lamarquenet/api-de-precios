@@ -13,7 +13,7 @@ const {createRandomString} = require('../lib/util');
 const setPassportStrategies = (passport) =>{
     passport.use( new LocalStrategy({ usernameField: 'email'}, (email, password, done)=>{
           // Match User
-      userModel.find({email: email})
+      userModel.findOne({email: email})
             .then(user =>{
                 if(!user){
                     return done(null, false, {message: 'That email is not registered'});
@@ -28,13 +28,13 @@ const setPassportStrategies = (passport) =>{
                         }
                         else{
                           //we send a new email to the user email account to remind him of authenticating into the page
-                          userToVerifyModel.find({"email": user.email})
+                          userToVerifyModel.findOne({"email": user.email})
                             .then(res =>{
                               if(res){
                                 emailSender(emailTemplates.verification(user.email , res.verificationString));
                               }
                               else{
-                                const newUserVerification = new userToVerify({
+                                const newUserVerification = new userToVerifyModel({
                                   email: user.email,
                                   verificationString: createRandomString(20)
                                 });
@@ -68,7 +68,7 @@ const setPassportStrategies = (passport) =>{
       const middleName = profile.name.middleName ? profile.name.middleName +' ' : '';
       const name = profile.name.givenName +" "+middleName + profile.name.familyName;
 
-      userModel.find({email: email})
+      userModel.findOne({email: email})
         .then(user =>{
           if(!user){
             const newUser = new userModel({
@@ -122,7 +122,6 @@ const setPassportStrategies = (passport) =>{
     // so the browser will remember the user when login
     //check if i should only serilize the id and not the entire user
     passport.serializeUser((user, done) => {
-        logger.info(visits++)
         done(null, user);
     });
     // deserialize the cookieUserId to user in the database
