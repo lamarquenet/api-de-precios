@@ -59,7 +59,7 @@ const setPassportStrategies = (passport) =>{
     const facebookOptions ={
         clientID: configFb.FACEBOOK_APP_ID ,
         clientSecret: configFb.FACEBOOK_APP_SECRET,
-        callbackURL: '/users/loginFacebook/callback',
+        callbackURL: 'https://tu-mejor-precio.herokuapp.com/users/loginFacebook/callback',
         profileFields: ['emails', 'name']
     }
 
