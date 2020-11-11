@@ -12,9 +12,9 @@ app.use(corsMiddleware);
 app.use(express.urlencoded({extended: false}));
 app.use(bodyParses.json());
 
-if (process.env.NODE_ENV === 'production') {
+/*if (process.env.NODE_ENV === 'production') {
     console.log = function () { };
-}
+}*/
 
 //import winston and combine with morgan
 const logger = require("./middlewares/logger").useWinstonCombinedWithMorgan(app);
