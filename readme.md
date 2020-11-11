@@ -31,3 +31,6 @@ Post
 
 The api server handles the navigation and authentication, as well as confirmation for new users. It talks with the server that contains all the prices and data to display the price change each month.
 The front end is developed using react.
+
+You can see a fully functional example of this app in https://tu-mejor-precio.herokuapp.com 
+The login by facebook needs the server to have ssl certificates and in heroku that is a paid feature so is not working there, but the feature is fully functional when used in an https server.
